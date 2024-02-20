@@ -24,6 +24,11 @@ python3 main.py -<flag> <image name>
 ```
 > Image needs to be inside the 'resources' folder and must be a JPEG file.
 
+#### flags
+- *map*  function is employed to extract GPS information from the EXIF metadata of an image, enabling the retrieval of latitude and longitude coordinates, and subsequently returning the geolocation data."
+
+- *steg*  extracts a hidden message from the provided image using steganography
+
 #### Example
 
 ```
