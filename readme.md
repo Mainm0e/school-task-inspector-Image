@@ -8,7 +8,7 @@
 ```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ```
-* Install these packages for this program.
+*  Install these packages for this program.
 
 ```
 for mac
