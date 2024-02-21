@@ -7,13 +7,14 @@
 * Execute the following command in your terminal:
 ```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+ 
+python3 get-pip.py
 ```
 *  Install these packages for this program.
 
 ```
 for mac
 python3 pip install Pillow
-python3 pip install pyexiv2
 ```
 
 ## Usage
